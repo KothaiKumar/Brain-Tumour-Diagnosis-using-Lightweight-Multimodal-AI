@@ -63,17 +63,20 @@ The proposed architecture consists of:
 ### Output 1: Omics Attention Heatmap
 Visualizes attention-weighted importance of latent omics features contributing to diagnosis.
 
-*(Add screenshot here)*
+<img width="991" height="467" alt="Screenshot 2026-02-03 223017" src="https://github.com/user-attachments/assets/d727a309-d348-4102-ae23-625dcb6d7eec" />
 
-### Output 2: ROC Curve and Confusion Matrix
+### Output 2: ROC Curve 
 Shows classification performance and error distribution.
 
-*(Add screenshot here)*
+<img width="635" height="541" alt="Screenshot 2026-02-03 223028" src="https://github.com/user-attachments/assets/217cfc41-66b7-4cd0-a0bb-07f8ef9692a6" />
 
-### Output 3: Grad-CAM MRI Visualization
-Highlights tumour-relevant regions in MRI scans.
+### Output 3: Confusion Matrix
+<img width="632" height="548" alt="Screenshot 2026-02-03 223037" src="https://github.com/user-attachments/assets/966c1526-89d7-49ea-ac81-a974695299e4" />
 
-*(Add screenshot here)*
+### Output 4: Model output
+
+<img width="1026" height="335" alt="Screenshot 2026-02-03 224224" src="https://github.com/user-attachments/assets/eccbb3ea-7250-4185-9d38-cf709e83b693" />
+
 
 ---
 
